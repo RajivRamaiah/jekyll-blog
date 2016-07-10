@@ -18,6 +18,5 @@ url: "https://rajivramaiah.github.io/jekyll-blog/" # the base hostname & protoco
 twitter_username: rajivramaiah
 github_username:  RajivRamaiah
 include: [_pages]
-
 # Build settings
 markdown: kramdown
